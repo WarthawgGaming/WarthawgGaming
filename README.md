@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/profile.png" alt="Warthawg Gaming Banner">
+</p>
+
 # Warthawg Gaming
 
 Gaming creator, Minecraft server developer, and plugin creator.
