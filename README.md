@@ -30,6 +30,7 @@ Current focus areas include:
 - [GitHub Pages Repository](https://github.com/WarthawgGaming/warthawggaming.github.io)
 
 ### Minecraft Plugins
+- [InventoryTools](https://github.com/WarthawgGaming/InventoryTools)
 - [AutoHopper](https://github.com/WarthawgGaming/autohopper)
 - [Plugin Collection](https://github.com/WarthawgGaming/warthawggaming-plugins)
 - [Minecraft Plugin Template](https://github.com/WarthawgGaming/minecraft-plugin-template)
@@ -44,9 +45,22 @@ Current focus areas include:
 
 - Minecraft Java server infrastructure
 - Plugin systems and utilities
+- Inventory management plugins
 - Gameplay quality-of-life improvements
 - Community tools and automation
 - Website and GitHub ecosystem improvements
+
+---
+
+## Plugin Ecosystem
+
+Current plugin development includes:
+
+- InventoryTools
+- AutoHopper
+- Shared plugin utilities
+- Plugin templates and frameworks
+- Future server automation systems
 
 ---
 
@@ -55,6 +69,7 @@ Current focus areas include:
 - Website: https://warthawggaming.com
 - Twitch: https://www.twitch.tv/warthawggaming
 - Discord: https://discord.gg/SFKsPd8YjH
+- GitHub: https://github.com/WarthawgGaming
 
 ---
 
@@ -70,4 +85,4 @@ Current focus areas include:
 
 ## Status
 
-Actively building projects, plugins, and community systems.
+Actively building plugins, server tools, and gaming community systems.
